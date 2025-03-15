@@ -1,0 +1,46 @@
+{
+    "imagenes": [
+      {
+        "id": 1,
+        "nombre": "Block-mineral",
+        "ruta": "/public/Block-mineral.jpg",
+        "descripcion": "Descripción de la imagen 1"
+      },
+      {
+        "id": 2,
+        "nombre": "Microfos",
+        "ruta": "/public/Microfos.jpg",
+        "descripcion": "Descripción de la imagen 2"
+      },
+      {
+        "id": 3,
+        "nombre": "Microfos12",
+        "ruta": "/public/Microfos12.jpg",
+        "descripcion": "Descripción de la imagen 3"
+      },
+      {
+        "id": 4,
+        "nombre": "Nutriplex-pl25",
+        "ruta": "/public/Nutriplex-pl25.jpg",
+        "descripcion": "Descripción de la imagen 4"
+      },
+      {
+        "id": 5,
+        "nombre": "Nutriplex3",
+        "ruta": "/public/Nutriplex3.jpg",
+        "descripcion": "Descripción de la imagen 5"
+      },
+      {
+        "id": 6,
+        "nombre": "Perrazo-ad",
+        "ruta": "/public/Perrazo-ad.jpg",
+        "descripcion": "Descripción de la imagen 6"
+      },
+      {
+        "id": 7,
+        "nombre": "Tecnofos-4-40",
+        "ruta": "/public/Tecnofos-4-40.jpg",
+        "descripcion": "Descripción de la imagen 7"
+      }
+    ]
+}
