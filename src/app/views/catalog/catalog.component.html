@@ -1,4 +1,23 @@
 <main>
+    <h1>Catalogo</h1>
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">id</th>
+            <th scope="col">name</th>
+            <th scope="col">lastname</th>
+            <th scope="col">avatar</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let articulo of articulos">
+            <th scope="row">{{articulo.id}}</th>
+            <td>{{articulo.name}}</td>
+            <td>{{articulo.precio}}</td>
+            <td>{{articulo.peso}}</td>
+          </tr>
+        </tbody>
+    </table>
     <div class="card-container">
         <div class="card" >
             <h1 class="tittle">Nutriplex 3</h1>

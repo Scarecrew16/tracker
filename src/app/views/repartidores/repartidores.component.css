@@ -1,0 +1,13 @@
+.repartidores-form{
+    margin: 0 auto;
+    border: 1px solid gray;
+    margin-bottom: 35px;
+    width: 475px;
+    padding: 12px;
+}
+
+
+.repartidores-table{
+    margin: 0 auto;
+    width: 750px;
+}

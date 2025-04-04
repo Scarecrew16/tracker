@@ -20,5 +20,5 @@ export const routes: Routes = [
     {path: 'repartidores', component:RepartidoresComponent},
     {path: 'pedidos', component:PedidosComponent},
     {path: 'clientes', component:ClientsComponent},
-    {path: 'mapa', component:MapComponent}
+    {path: 'mapa', component:MapComponent},
 ];

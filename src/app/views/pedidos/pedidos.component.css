@@ -1,8 +1,24 @@
+.order-form{
+    margin: 0 auto;
+    margin-bottom: 45px;
+    width: 825px;
+}
+
+.qty{
+    border: 1px solid rgb(214, 214, 214);
+}
+
 .client-data{
     padding: 10px;
     margin-bottom: 15px;
 }
 
 .boton{
+    
     margin-bottom: 16px;
+}
+
+.table-container{
+    margin: 0 auto;
+    width: 775px;
 }

@@ -1,10 +1,13 @@
 
 <main>
-    <h2>Rutas activas</h2>
-    <app-table/>
-    <h2>Rutas existentes</h2>
-    <table class="table table-striped-columns">
-        <thead >
+    <div class="active-routes">
+      <h2>Rutas activas</h2>
+      <app-table/>
+    </div>
+    <div class="routes">
+      <h2>Rutas existentes</h2>
+      <table class="table table-striped-columns">
+        <thead>
           <tr>
             <th scope="col">#</th>
             <th scope="col">Nombre</th>
@@ -20,10 +23,12 @@
             <td>Dgo</td>
           </tr>
         </tbody>
-    </table>
-    <h2>Vendedores</h2>
-    <table class="table table-striped-columns">
-        <thead >
+      </table>
+    </div>
+    <div class="vendors-container">
+      <h2>Vendedores</h2>
+      <table class="table table-striped-columns">
+        <thead>
           <tr>
             <th scope="col">#</th>
             <th scope="col">Nombre</th>
@@ -42,6 +47,7 @@
             <td>Madrid</td>
           </tr>
         </tbody>
-    </table>
+      </table>
+    </div>
 </main>
 
